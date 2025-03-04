@@ -4,7 +4,7 @@
 int function(int x){
 	if(x<0)
 	return 0;
-	return function(x-2);
+	return function(x-1);
 }
 
 int main(){
